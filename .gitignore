@@ -1,0 +1,9 @@
+.gradle/**
+*.keep*
+technotes/**
+logs/**
+build/**
+target/**
+.vscode/**
+.idea/**
+
